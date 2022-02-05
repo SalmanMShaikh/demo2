@@ -11,3 +11,6 @@ another try to push the directory in git ok
 
 
  this is the second branch now i will try to push the branch to the origin master without merging it lets see what happens
+
+
+ pushing the branch final try
